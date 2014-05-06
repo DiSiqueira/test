@@ -1,7 +1,3 @@
 ciao
 come
-stai?
-
-Io sto
-bene
-& tu?
+sta?
